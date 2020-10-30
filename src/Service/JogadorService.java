@@ -1,3 +1,5 @@
+package Service;
+
 import Model.Jogador;
 import Model.Partida;
 import Repository.JogadorRepository;

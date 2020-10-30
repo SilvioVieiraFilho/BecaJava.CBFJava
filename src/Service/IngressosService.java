@@ -1,3 +1,5 @@
+package Service;
+
 import Model.Ingressos;
 import Model.Partida;
 import Repository.IngressosRepository;

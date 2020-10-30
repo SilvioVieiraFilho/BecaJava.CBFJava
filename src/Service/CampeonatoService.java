@@ -1,3 +1,6 @@
+package Service;
+
+
 import Model.Campeonato;
 import Model.Ingressos;
 import Model.Partida;
@@ -17,7 +20,7 @@ public class CampeonatoService {
 	
 
   
-	public void  setIngressoss(Campeonato campeonato) {
+	public void  setCampeonato(Campeonato campeonato) {
 		
 		CampeonatoRepository campeonato1 = new CampeonatoRepository();
 		
